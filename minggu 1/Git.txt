@@ -1,1 +1,3 @@
-Belajar git
+Kita belajar untuk bisa menggunakan git karena Git adalah salah satu tool yang sering digunakan dalam proyek pengembangan software.
+Git bahkan menjadi tool yang wajib dipahami oleh programmer, karena banyak digunakan di mana-mana.
+Jadi kita bisa paham bagaimana cara membuat git dan push git yang baik dan benar
